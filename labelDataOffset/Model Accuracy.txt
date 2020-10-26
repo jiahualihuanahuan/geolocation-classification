@@ -1,0 +1,76 @@
+XGBoost Model
+model accuracy is 0.5099832178665175
+model accuracy is 0.5112741512113258
+model accuracy is 0.5113171823228194
+model accuracy is 0.5140496579026637
+model accuracy is 0.5135548001204872
+model accuracy is 0.5110589956538577
+model accuracy is 0.5134902534532467
+model accuracy is 0.5091441111923921
+model accuracy is 0.512349928998666
+model accuracy is 0.514566031240587
+
+CatBoost Model
+model accuracy is 0.5345754980851155
+model accuracy is 0.5334351736305348
+model accuracy is 0.5376091914454151
+model accuracy is 0.536727053659796
+model accuracy is 0.5344679203063815
+model accuracy is 0.5381470803390852
+model accuracy is 0.5333921425190412
+model accuracy is 0.5328757691811179
+model accuracy is 0.5376737381126554
+model accuracy is 0.5322518180644606
+
+GBM Model
+model accuracy is 0.4602607685356513
+model accuracy is 0.46021773742415767
+model accuracy is 0.4599165196437024
+model accuracy is 0.4617453418821808
+model accuracy is 0.4575928396230475
+model accuracy is 0.462605964112053
+model accuracy is 0.46316536856146995
+model accuracy is 0.46232626188734455
+model accuracy is 0.4589052885236026
+model accuracy is 0.45625887516674557
+
+
+Random_Forest Model
+model accuracy is 0.5673006583760059
+model accuracy is 0.5706355695167606
+model accuracy is 0.5692800895047119
+model accuracy is 0.5647833383536297
+model accuracy is 0.5724859073109858
+model accuracy is 0.5694091828391927
+model accuracy is 0.5696673695081544
+model accuracy is 0.5692370583932183
+model accuracy is 0.5711304272989371
+model accuracy is 0.5668918628168166
+
+KNN Model
+model accuracy is 0.5100692800895047
+model accuracy is 0.5070786178406989
+model accuracy is 0.5129523645595766
+model accuracy is 0.5081543956280391
+model accuracy is 0.50518524893498
+model accuracy is 0.5066052756142692
+model accuracy is 0.50518524893498
+model accuracy is 0.5136193467877276
+model accuracy is 0.509273204526873
+model accuracy is 0.5021945866861741
+
+MLP (neural network)
+model accuracy is 0.722298721975988
+model accuracy is 0.7200395886225741
+model accuracy is 0.7199104952880933
+model accuracy is 0.7194586686174104
+model accuracy is 0.7273763931322346
+model accuracy is 0.724902104221352
+model accuracy is 0.7176513619346788
+model accuracy is 0.7168983174835406
+model accuracy is 0.729979775377598
+model accuracy is 0.7247299797753776
+
+
+
+
