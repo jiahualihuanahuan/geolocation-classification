@@ -22,7 +22,7 @@ model accuracy is 0.5328757691811179
 model accuracy is 0.5376737381126554
 model accuracy is 0.5322518180644606
 
-GBM Model
+LGBM Model
 model accuracy is 0.4602607685356513
 model accuracy is 0.46021773742415767
 model accuracy is 0.4599165196437024
